@@ -49,7 +49,7 @@ My experience spans statistical genetics, clinical research, and real-world data
 
 ---
 
-## 💡 What I Do
+## What I Do
 
 * Analyze large-scale datasets (10M+ records)
 * Build statistical and predictive models
