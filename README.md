@@ -1,7 +1,8 @@
 This is my updated resume
 # Hi, I'm Siyi Wang
 
-🎓 M.S. in Statistics @ Rice University |  Bachelor @ University Of California, Irvine
+🎓 M.S. in Statistics @ Rice University |  🎓 Bachelor @ University Of California, Irvine
+
 📍 Houston, TX
 📊 Data Analysis | Biostatistics | Large-Scale Data
 
